@@ -9,4 +9,77 @@
   "profile": {
     "name": "typicode"
   }
+ "credits":{
+    "1":[
+          {
+            "actor": { "uid": "1234" },
+            "amount": 5,
+            "createdAt": "new Date(1540621350052)",
+            "object": {},
+            "verb": "signed up"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": 10,
+            "createdAt": "new Date(1573666240674)",
+            "object": { "name": "funds" },
+            "verb": "added"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": -15,
+            "createdAt": "new Date(1573674376842)",
+            "object": { "name": "The Watershed" },
+            "verb": "checked in to"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": -15,
+            "createdAt": "new Date(1572666240674)",
+            "object": { "name": "A Space With A Very Long 'Name' That Will Span Two Lines" },
+            "verb": "checked in to"
+          },
+          {
+            "actor": { "name": "Flexday" },
+            "amount": 8,
+            "createdAt": "new Date(1546621350052)",
+            "object": { "uid": "1234" },
+            "verb": "gifted"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": 5,
+            "createdAt": "new Date(1540621350052)",
+            "object": {},
+            "verb": "signed up"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": 10,
+            "createdAt": "new Date(1573666240674)",
+            "object": { "name": "funds" },
+            "verb": "added"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": -15,
+            "createdAt": "new Date(1573674376842)",
+            "object": { "name": "The Watershed" },
+            "verb": "checked in to"
+          },
+          {
+            "actor": { "uid": "1234" },
+            "amount": -15,
+            "createdAt": "new Date(1572666240674)",
+            "object": { "name": "A Space With A Very Long 'Name' That Will Span Two Lines" },
+            "verb": "checked in to"
+          },
+          {
+            "actor": { "name": "Flexday" },
+            "amount": 8,
+            "createdAt": "new Date(1546621350052)",
+            "object": { "uid": "1234" },
+            "verb": "gifted"
+          }
+    ]
 }
