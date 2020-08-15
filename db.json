@@ -2,7 +2,7 @@
   "credits": [
     {
       "id": 1,
-      "body":[{"activites": [          
+      "body":{"activites": [          
         {
           "actor": { "uid": "1234" },
           "amount": 5,
@@ -78,9 +78,9 @@
           "verb": "gifted"
         }
        
-      ]
+              ]
+      
     }
-    ]
   }
   ]
 }
