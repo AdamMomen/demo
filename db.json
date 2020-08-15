@@ -10,7 +10,9 @@
     "name": "typicode"
   },
  "credits":{
-    "1":[
+   {
+"uid":"1",
+"body":[
           {
             "actor": { "uid": "1234" },
             "amount": 5,
