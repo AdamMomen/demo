@@ -2,7 +2,7 @@
   "credits": [
     {
       "id": 1,
-      "body":[ 
+      "body":{
             {
              "name":"Adam",
              "plan":"Pay As You Go",
@@ -114,7 +114,7 @@
                   },
                   "verb": "gifted"
                 }
-            ]
+              }
           }
       ]
     }
