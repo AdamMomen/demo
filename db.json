@@ -11,7 +11,7 @@
   },
  "credits":[
    {
-"uid":"1",
+"uid":1,
 "body":[
           {
             "actor": { "uid": "1234" },
