@@ -3,8 +3,7 @@
       {
          "id":1,
          "body":{
-            "activites":{
-              "body":[
+            "activites":[
                {
                   "actor":{
                      "uid":"1234"
@@ -116,7 +115,7 @@
                   "verb":"gifted"
                }
               ]  
-            }
+            
          }
       }
    ]
