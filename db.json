@@ -2,8 +2,7 @@
   "credits": [
     {
       "id": 1,
-      "body": {
-        "something": 12351531,
+      "body":[ {
         "activites": [
           {
             "actor": {
@@ -113,6 +112,7 @@
           }
         ]
       }
+      ]
     }
   ]
 }
