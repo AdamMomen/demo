@@ -4,9 +4,9 @@
       "id": 1,
       "body":[ 
             {
-             name:"Adam",
-             plan:"Pay As You Go",
-              Balance:50000000,
+             "name":"Adam",
+             "plan":"Pay As You Go",
+              "balance":50000000,
             "activites": [
                 {
                   "actor": {
